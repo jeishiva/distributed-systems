@@ -1,4 +1,4 @@
-# 📡 Distributed Systems Deep Dive — YouTube & Analytics Engine
+# 📡 Distributed Systems Deep Dive
 
 As a **mobile engineer**, I’ve always been drawn to building seamless, performant user experiences. Over time, I found myself increasingly intrigued by the systems powering those experiences — particularly how large-scale distributed systems handle complexity, reliability, and scale.
 
