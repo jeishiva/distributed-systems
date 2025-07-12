@@ -15,7 +15,7 @@ This project explores how a video streaming platform like YouTube can be archite
 - 🔗 [System Design | YouTube | API & Resource Estimation](https://medium.com/@s.sivaguru11/system-design-youtube-part-1-7db0ae89c95b)  
   Covers the key features of YouTube, breaks down the API design and storage strategy, and includes resource estimation for video uploads and streaming scale.
 
-- 🔗 [YouTube Architecture Visual Post](https://medium.com/p/5fdd47b4de25)  
+- 🔗 [YouTube High-Level Architecture](https://medium.com/p/5fdd47b4de25)  
   Presents the high-level architecture diagram for the system. Useful for understanding how different subsystems interact in the design.
 
 ### 🧠 Highlights:
